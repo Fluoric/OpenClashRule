@@ -1,0 +1,14 @@
+# Webex List
+
+# Webex
+DOMAIN-SUFFIX,wbx2.com
+DOMAIN-SUFFIX,ciscospark.com
+DOMAIN-KEYWORD,webex
+
+# Webex Meetings
+DOMAIN-SUFFIX,webex.com
+DOMAIN-SUFFIX,cisco.com
+DOMAIN-SUFFIX,webexcontent.com
+
+# Additional services
+DOMAIN-SUFFIX,accompany.com
