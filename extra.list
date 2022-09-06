@@ -1,4 +1,2 @@
-##额外自定分流规则
-DOMAIN-KEYWORD,duolingo,🇭🇰 香港节点
-DOMAIN-KEYWORD,webex,DIRECT
-DOMAIN-KEYWORD,buyee,DIRECT
+#多邻国
+DOMAIN-KEYWORD,duolingo
