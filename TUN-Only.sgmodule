@@ -3,4 +3,5 @@
 #!system=ios
 
 [General]
+# 兼容模式，默认禁用（0 - 禁用；1 - Proxy with Loopback Address；2 - Proxy Only；3 - TUN Only）
 compatibility-mode = 3
