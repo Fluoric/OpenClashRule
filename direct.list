@@ -2,3 +2,5 @@
 DOMAIN-KEYWORD,buyee
 #Webex
 DOMAIN-KEYWORD,webex
+#Visa
+DOMAIN-SUFFIX,gouv.fr
