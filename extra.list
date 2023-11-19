@@ -1,10 +1,7 @@
 #多邻国
 DOMAIN-KEYWORD,duolingo
 
-#V2EX
-DOMAIN-KEYWORD,pikpak
-
-# NAME: PikPak
+#PikPak
 DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
 DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net
 DOMAIN-SUFFIX,hub5pn.wap.sandai.net
