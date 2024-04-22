@@ -82,6 +82,7 @@ DOMAIN-SUFFIX,today.line.me
 #MyVideo
 DOMAIN-SUFFIX,myvideo.net.tw
 DOMAIN,cdn.plyr.io
+DOMAIN-KEYWORD,myvideo
 
 #KKTV
 #USER-AGENT,KKTV*
