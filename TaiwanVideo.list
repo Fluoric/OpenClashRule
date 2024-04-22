@@ -81,7 +81,7 @@
 
 #MyVideo
  - DOMAIN-SUFFIX,myvideo.net.tw
- - DOMAIN-SUFFIX,cdn.plyr.io
+ - DOMAIN,cdn.plyr.io
 
 #KKTV
  #- USER-AGENT,KKTV*
