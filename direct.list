@@ -93,3 +93,4 @@ DOMAIN-SUFFIX,yun-hl.3g.qq.com
 IP-ASN,132203,no-resolve
 #Weread
 DOMAIN-SUFFIX,i.weread.qq.com
+DOMAIN-KEYWORD,weread
