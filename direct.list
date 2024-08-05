@@ -1,12 +1,16 @@
 #work
 DOMAIN-KEYWORD,druva
 DOMAIN-KEYWORD,slate
+
 #buyee
 DOMAIN-KEYWORD,buyee
+
 #Webex
 DOMAIN-KEYWORD,webex
+
 #Visa
 DOMAIN-SUFFIX,gouv.fr
+
 #签到
 DOMAIN-SUFFIX,1000qm.vip
 DOMAIN-SUFFIX,lkong.com
@@ -15,9 +19,11 @@ DOMAIN-KEYWORD,kfpromax
 DOMAIN-KEYWORD,2dfan
 DOMAIN-KEYWORD,18comic
 DOMAIN-SUFFIX,allshu2024.com
+
 #Berlitz
 DOMAIN-SUFFIX,berlitzdigital.com
 DOMAIN-KEYWORD,berlitz
+
 #SyncnextUnbreak
 DOMAIN-SUFFIX,movie.douban.com
 DOMAIN-SUFFIX,mddcloud.com.cn
@@ -31,6 +37,7 @@ DOMAIN-SUFFIX,zh188.net
 DOMAIN-SUFFIX,kczybf.com
 DOMAIN-SUFFIX,mixpanel.com
 DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,tv.apple.com
 DOMAIN-SUFFIX,ctyunxs.cn
 DOMAIN-SUFFIX,hls.aoxtv.com
 DOMAIN-KEYWORD,ffzy-play
@@ -62,3 +69,4 @@ DOMAIN-SUFFIX,wogg.xyz
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-KEYWORD,tt.cuc.myqcloud.com.cn
 DOMAIN-SUFFIX,ikzybf.com
+DOMAIN-SUFFIX,bfikuncdn.com
