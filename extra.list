@@ -2,7 +2,7 @@
 DOMAIN-KEYWORD,duolingo
 
 #PikPak
-DOMAIN-SUFFIX,access.mypikpak.com
+#DOMAIN-SUFFIX,access.mypikpak.com
 
 #Coze
 DOMAIN-SUFFIX,coze.com
